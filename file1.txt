@@ -1,1 +1,3 @@
 to be or not to be, that is the question. Aliens then destroyed everything.
+
+This is to make sure I know how to manage the version of this using git and github.
